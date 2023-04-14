@@ -1,6 +1,7 @@
-# Azure Event Hubs Receiver with InfluxDB Integration
+# Azure Event Hubs Receiver with InfluxDB Integration For MAMORIO BLE Beacon
 
-このリポジトリでは、Azure Event Hubsからイベントを受信し、InfluxDBに保存する方法を説明します。
+[BLE MAMORIO Scanner and Azure Event Hubs Sender](https://github.com/ysogabe/mmtr)のデータをAzure Event Hubsからイベントを受信し、InfluxDBに保存する方法を説明します。
+
 
 ## 前提条件
 
