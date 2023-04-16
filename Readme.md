@@ -21,6 +21,7 @@
 
    ```
    EVENTHUB_CONNECTION_STRING=<Your_Event_Hubs_Connection_String>
+   EVENTHUB_NAME=<Your_Event_hub_name>
    INFLUXDB_URL=<Your_InfluxDB_URL>
    INFLUXDB_TOKEN=<Your_InfluxDB_Token>
    INFLUXDB_ORG=<Your_InfluxDB_Organization>

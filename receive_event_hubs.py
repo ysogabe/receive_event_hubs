@@ -74,7 +74,7 @@ def receive_events(connection_string, event_hub_name):
 
 if __name__ == "__main__":
     connection_string = os.environ["EVENTHUB_CONNECTION_STRING"]
-    event_hub_name = "mmtr"
+    event_hub_name = os.environ["EVENTHUB_NAME"]
 
     #print(f"[{connection_string }]")
 
